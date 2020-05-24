@@ -1,0 +1,22 @@
+obse/Debug
+obse/Release
+obse/ipch
+obse/loader/Debug
+obse/loader/Release
+obse/loader_common/Debug
+obse/loader_common/Release
+obse/obse/Debug 1_2_0_416
+obse/obse/Release 1_2_0_416
+obse/obse_editor/Debug 1_2_0_0
+obse/obse_editor/Release 1_2_0_0
+obse/steam_loader/Debug
+obse/steam_loader/Release
+
+common/Debug
+common/Release
+
+nehrim_steam/Debug
+nehrim_steam/Release
+nehrim_steam/ipch
+
+*.opensdf
