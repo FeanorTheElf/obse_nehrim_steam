@@ -18,5 +18,6 @@ common/Release
 nehrim_steam/Debug
 nehrim_steam/Release
 nehrim_steam/ipch
+nehrim_steam/.vs
 
 *.opensdf
